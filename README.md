@@ -43,9 +43,9 @@ As part of a 5-member team, I contributed to:
 - **Figma** – for supporting visual assets and presentation materials
 - **Google Docs** – for collaborative documentation and project reporting
 
-## Repository Contents
-- Project report
-- Final presentation
+## Project Files
+- **Superindo_Project_Report.pdf** – detailed project report covering business analysis, database design, normalization, and recommendations.
+- **Superindo_Final_Presentation.pdf** – summary presentation of the project background, solution, and key outcomes.
 
 ## Team Project Note
 This project was developed collaboratively by a team of 5 members as part of an academic database systems project.

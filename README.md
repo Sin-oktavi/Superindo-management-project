@@ -52,3 +52,10 @@ As part of a 5-member team, I contributed to:
 
 ## Team Project Note
 This project was developed collaboratively by a team of 5 members as part of an academic database systems project.
+
+## My Contribution
+As part of a 5-member team, I contributed to:
+- analyzing business requirements and identifying operational challenges,
+- supporting the design of database structure and data relationships,
+- reviewing business process flows related to customer, transaction, and inventory data,
+- assisting in project documentation, reporting, and presentation preparation.

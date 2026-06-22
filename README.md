@@ -32,30 +32,20 @@ The solution was aimed at improving data organization, reducing redundancy, and 
 
 ## My Contribution
 As part of a 5-member team, I contributed to:
-- analyzing business requirements and operational issues,
-- supporting database design and documentation,
-- reviewing data relationships and business process structure,
-- contributing to project reporting and presentation preparation.
-
-## Tools & Concepts Used
-- Database Design
-- ERD / Relational Schema
-- Database Normalization
-- SQL concepts
-- Business Process Analysis
-- Documentation and Presentation
-
-## Repository Contents
-- Project report
-- Final presentation
-- Supporting project documentation
-
-## Team Project Note
-This project was developed collaboratively by a team of 5 members as part of an academic database systems project.
-
-## My Contribution
-As part of a 5-member team, I contributed to:
 - analyzing business requirements and identifying operational challenges,
 - supporting the design of database structure and data relationships,
 - reviewing business process flows related to customer, transaction, and inventory data,
 - assisting in project documentation, reporting, and presentation preparation.
+
+## Tools Used
+- **draw.io** – for creating ERD, flow diagrams, and database-related visuals
+- **Oracle** – for database implementation and SQL query execution
+- **Figma** – for supporting visual assets and presentation materials
+- **Google Docs** – for collaborative documentation and project reporting
+
+## Repository Contents
+- Project report
+- Final presentation
+
+## Team Project Note
+This project was developed collaboratively by a team of 5 members as part of an academic database systems project.
